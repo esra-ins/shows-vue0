@@ -22,8 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# shows-vue
-# shows-vue
-# shows-vue0
-# shows-vue0
 # shows-vue0
